@@ -1,0 +1,207 @@
+{
+  "domain": "doctorbagchic",
+  "niche": "Haute Leathercraft & Bespoke Structured Doctor Bags",
+  "design_concept": "Urban High-Contrast & Modernist Monochrome",
+  "archetype_id": "urban_high_contrast",
+  "pages": [
+    "index.php",
+    "about.html",
+    "services.html",
+    "contact.html",
+    "faq.html",
+    "privacy-policy.html",
+    "terms-and-conditions.html",
+    "disclaimer.html",
+    "cookie-policy.html"
+  ],
+  "images": [
+    {
+      "index": 1,
+      "filename": "doctorbagchic_asset_1.jpg",
+      "size_kb": 65.0,
+      "md5": "d046b1db93fad413fd39ba915a0db9c9",
+      "description": "belber doctor bag",
+      "page": "index.php",
+      "section": "Hero Masthead"
+    },
+    {
+      "index": 2,
+      "filename": "doctorbagchic_asset_2.jpg",
+      "size_kb": 90.92,
+      "md5": "10dfba964c8646375528aed95f3c9fa5",
+      "description": "replika dan peninggalan dari ruang",
+      "page": "index.php",
+      "section": "Signature Showcase I"
+    },
+    {
+      "index": 3,
+      "filename": "doctorbagchic_asset_3.jpg",
+      "size_kb": 120.32,
+      "md5": "ff4bfd830988f36f42b666b830a3d435",
+      "description": "1912 cast copper alloy purse frame",
+      "page": "index.php",
+      "section": "Signature Showcase II"
+    },
+    {
+      "index": 4,
+      "filename": "doctorbagchic_asset_4.jpg",
+      "size_kb": 154.4,
+      "md5": "39e8c86bbd6a0389a924c435b931f88e",
+      "description": "687 and 688 purse frame findid 110",
+      "page": "index.php",
+      "section": "Signature Showcase III"
+    },
+    {
+      "index": 5,
+      "filename": "doctorbagchic_asset_5.jpg",
+      "size_kb": 76.76,
+      "md5": "7961b08bbed97a0a37f4efb0cce30262",
+      "description": "late medieval purse frame findid",
+      "page": "index.php",
+      "section": "Curated Collection I"
+    },
+    {
+      "index": 6,
+      "filename": "doctorbagchic_asset_6.jpg",
+      "size_kb": 45.35,
+      "md5": "095fc0d0e9d9f9c58459df59e45c0a5b",
+      "description": "late medieval purse frame findid",
+      "page": "index.php",
+      "section": "Curated Collection II"
+    },
+    {
+      "index": 7,
+      "filename": "doctorbagchic_asset_7.jpg",
+      "size_kb": 55.75,
+      "md5": "37ee7f24307d69476101cbd625e6fafb",
+      "description": "late medieval purse frame findid",
+      "page": "index.php",
+      "section": "Heritage Story I"
+    },
+    {
+      "index": 8,
+      "filename": "doctorbagchic_asset_8.jpg",
+      "size_kb": 38.65,
+      "md5": "de1229460919207af70161d874d52e11",
+      "description": "late medieval purse frame findid",
+      "page": "index.php",
+      "section": "Heritage Story II"
+    },
+    {
+      "index": 9,
+      "filename": "doctorbagchic_asset_9.jpg",
+      "size_kb": 58.5,
+      "md5": "b0e91177040526dd46433027a4627943",
+      "description": "late medieval purse frame findid",
+      "page": "about.html",
+      "section": "Heritage Hero"
+    },
+    {
+      "index": 10,
+      "filename": "doctorbagchic_asset_10.jpg",
+      "size_kb": 51.76,
+      "md5": "b65f1cbbaa69a31aae6eefdc59c050a0",
+      "description": "late medieval purse frame findid",
+      "page": "about.html",
+      "section": "Principles Pillar I"
+    },
+    {
+      "index": 11,
+      "filename": "doctorbagchic_asset_11.jpg",
+      "size_kb": 114.67,
+      "md5": "cf9e2cc87dcea4a633e4a21b29c72890",
+      "description": "medieval purse frame findid 23327",
+      "page": "about.html",
+      "section": "Principles Pillar II"
+    },
+    {
+      "index": 12,
+      "filename": "doctorbagchic_asset_12.jpg",
+      "size_kb": 74.09,
+      "md5": "449247e37052f3d46b0732f59bc95fea",
+      "description": "medieval purse purse frame findid",
+      "page": "about.html",
+      "section": "Principles Pillar III"
+    },
+    {
+      "index": 13,
+      "filename": "doctorbagchic_asset_14.jpg",
+      "size_kb": 62.22,
+      "md5": "b2bac3949c4578d67c25786bcd7721b6",
+      "description": "medieval purse frame findid 142431",
+      "page": "services.html",
+      "section": "Services Hero"
+    },
+    {
+      "index": 14,
+      "filename": "doctorbagchic_asset_15.jpg",
+      "size_kb": 77.18,
+      "md5": "8d9a1d51060ba17d7be6756273d16a23",
+      "description": "medieval purse frame findid 157810",
+      "page": "services.html",
+      "section": "Specialty I"
+    },
+    {
+      "index": 15,
+      "filename": "doctorbagchic_asset_16.jpg",
+      "size_kb": 56.75,
+      "md5": "037279a90b63e374ea1d93a3b5c4cc75",
+      "description": "medieval purse frame findid 162717",
+      "page": "services.html",
+      "section": "Specialty II"
+    },
+    {
+      "index": 16,
+      "filename": "doctorbagchic_asset_17.jpg",
+      "size_kb": 93.75,
+      "md5": "1ddf8619e7283c355700c4f112f65941",
+      "description": "medieval purse frame findid 35599",
+      "page": "services.html",
+      "section": "Specialty III"
+    },
+    {
+      "index": 17,
+      "filename": "doctorbagchic_asset_18.jpg",
+      "size_kb": 76.56,
+      "md5": "5025fe15463bf91805a02551a91c8299",
+      "description": "medieval purse frame findid 383180",
+      "page": "services.html",
+      "section": "Specialty IV"
+    },
+    {
+      "index": 18,
+      "filename": "doctorbagchic_asset_19.jpg",
+      "size_kb": 88.8,
+      "md5": "e78d8beac8053fd2a2cce84d09f4d32c",
+      "description": "medieval purse frame findid 499246",
+      "page": "services.html",
+      "section": "Specialty V"
+    },
+    {
+      "index": 19,
+      "filename": "doctorbagchic_asset_20.jpg",
+      "size_kb": 112.84,
+      "md5": "0b55910295377479a2bc0a50ba71acf7",
+      "description": "purse frame met 160417",
+      "page": "contact.html",
+      "section": "Salon Consultation"
+    },
+    {
+      "index": 20,
+      "filename": "doctorbagchic_asset_21.jpg",
+      "size_kb": 103.48,
+      "md5": "a4d54f27d91e9cae4ffa8d0e2b720733",
+      "description": "purse frame findid 482345",
+      "page": "faq.html",
+      "section": "Collector FAQ"
+    }
+  ],
+  "seo": {
+    "google_tag": "G-0LY0HY7L01",
+    "address": "181 Mercer Street, New York, NY 10012, United States",
+    "telephone": "+1-888-777-5845",
+    "sitemap": "https://doctorbagchic.com/sitemap.xml",
+    "robots": "https://doctorbagchic.com/robots.txt"
+  },
+  "validation_status": "PASSED_100_PERCENT"
+}

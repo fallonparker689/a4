@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://doctorbagchic.com/sitemap.xml
