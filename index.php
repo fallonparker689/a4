@@ -76,7 +76,7 @@
       </div>
       <div style="position:relative;">
         <div style="border-radius:var(--radius-md); overflow:hidden; border:1px solid var(--border-strong); box-shadow:0 25px 50px -12px rgba(0,0,0,0.7);">
-          <img src="assets/images/doctorbagchic_asset_1.jpg" alt="belber doctor bag" style="width:100%; height:500px; object-fit:cover;">
+          <img src="assets/images/doctorbagchic_asset_1.jpg" alt="handtooled leather handbag celtic d" style="width:100%; height:500px; object-fit:cover;">
         </div>
       </div>
     </div>
@@ -99,7 +99,7 @@
       </div>
       <div class="grid-3">
         <div class="card">
-          <img src="assets/images/doctorbagchic_asset_2.jpg" alt="replika dan peninggalan dari ruang">
+          <img src="assets/images/doctorbagchic_asset_2.jpg" alt="kelly bag">
           <div class="card-body">
             <span class="eyebrow">Series I</span>
             <h3>Signature Atelier Edition</h3>
@@ -107,7 +107,7 @@
           </div>
         </div>
         <div class="card">
-          <img src="assets/images/doctorbagchic_asset_3.jpg" alt="1912 cast copper alloy purse frame">
+          <img src="assets/images/doctorbagchic_asset_3.jpg" alt="leather handbag by les cuirs d agat">
           <div class="card-body">
             <span class="eyebrow">Series II</span>
             <h3>Curated Bespoke Commission</h3>
@@ -115,7 +115,7 @@
           </div>
         </div>
         <div class="card">
-          <img src="assets/images/doctorbagchic_asset_4.jpg" alt="687 and 688 purse frame findid 110">
+          <img src="assets/images/doctorbagchic_asset_4.jpg" alt="red crocodile kelly bag">
           <div class="card-body">
             <span class="eyebrow">Series III</span>
             <h3>Archival Vault Reserve</h3>
@@ -165,7 +165,7 @@
       </div>
       <div class="grid-2">
         <div class="card" style="display:grid; grid-template-columns:1fr 1fr; align-items:center;">
-          <img src="assets/images/doctorbagchic_asset_5.jpg" alt="late medieval purse frame findid" style="height:100%; object-fit:cover;">
+          <img src="assets/images/doctorbagchic_asset_5.jpg" alt="shenkar archive bag collection. t" style="height:100%; object-fit:cover;">
           <div class="card-body">
             <span class="eyebrow">Craft Service</span>
             <h3>Bespoke Design Consultation</h3>
@@ -174,7 +174,7 @@
           </div>
         </div>
         <div class="card" style="display:grid; grid-template-columns:1fr 1fr; align-items:center;">
-          <img src="assets/images/doctorbagchic_asset_6.jpg" alt="late medieval purse frame findid" style="height:100%; object-fit:cover;">
+          <img src="assets/images/doctorbagchic_asset_6.jpg" alt="shenkar archive bag collection. t" style="height:100%; object-fit:cover;">
           <div class="card-body">
             <span class="eyebrow">Restoration</span>
             <h3>Archival Conservation</h3>
@@ -188,8 +188,8 @@
   <section class="section-pad" style="background:var(--bg-surface); border-top:1px solid var(--border-subtle); border-bottom:1px solid var(--border-subtle);">
     <div class="container" style="display:grid; grid-template-columns:1fr 1.1fr; gap:4rem; align-items:center;">
       <div style="display:grid; grid-template-columns:1fr 1fr; gap:1.5rem;">
-        <img src="assets/images/doctorbagchic_asset_7.jpg" alt="late medieval purse frame findid" style="border-radius:var(--radius-md); height:280px; width:100%; object-fit:cover;">
-        <img src="assets/images/doctorbagchic_asset_8.jpg" alt="late medieval purse frame findid" style="border-radius:var(--radius-md); height:280px; width:100%; object-fit:cover; margin-top:2rem;">
+        <img src="assets/images/doctorbagchic_asset_7.jpg" alt="luxury bags" style="border-radius:var(--radius-md); height:280px; width:100%; object-fit:cover;">
+        <img src="assets/images/doctorbagchic_asset_8.jpg" alt="patricia ar valo author illustrator" style="border-radius:var(--radius-md); height:280px; width:100%; object-fit:cover; margin-top:2rem;">
       </div>
       <div>
         <span class="eyebrow">The Atelier Chronicle</span>
